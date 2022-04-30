@@ -14,6 +14,7 @@ That is why I decided to create the Better Bricks mod.
 Currently this mod adds 9 new types of brick to your Minecraft world.
 
 In addition, this mod adds mortar, a new substance made with clay, sand, and coal. Mortar is needed to craft the various bricks.
+
 ---
 
 This mod is available for download [here](https://www.curseforge.com/minecraft/mc-mods/better-bricks-mod)
