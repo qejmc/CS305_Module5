@@ -3,4 +3,4 @@
 This text will describe an example project of which will probably never be completed.
 
 ## License
-GNU General Public License v3.0 read license [here](https://github.com/qejmc/CS305_Module5/blob/main/LICENSE)
+GNU General Public License v3.0: see license [here](https://github.com/qejmc/CS305_Module5/blob/main/LICENSE)
